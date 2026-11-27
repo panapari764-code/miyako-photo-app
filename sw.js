@@ -1,6 +1,6 @@
 const scope = self.registration.scope;
 const cachePrefix = "miyako-photo-guide:" + scope + ":";
-const cacheName = cachePrefix + "2:";
+const cacheName = cachePrefix + "3:";
 const appPage = new URL("index.html", scope).href;
 const appPaths = new Set(["", "index.html", "miyako-photo-guide.html"].map(path => new URL(path, scope).pathname));
 const assets = ["manifest.webmanifest", "icon-192.png", "icon-512.png", "apple-touch-icon.png"]
