@@ -1,0 +1,6 @@
+App icon artwork: Miyako Island coastline simplified from “Map of Miyako Islands.svg” by Kugel~commonswiki (based on Geospatial Information Authority of Japan mapping).
+Source: https://commons.wikimedia.org/wiki/File:Map_of_Miyako_Islands.svg
+Changes: isolated and simplified the north-up main-island outline, recolored it, and incorporated it into a camera icon.
+The icon artwork (icon-192.png, icon-512.png, apple-touch-icon.png) is shared under CC BY-SA 4.0.
+License: https://creativecommons.org/licenses/by-sa/4.0/
+The current artwork depicts an anime-style camera with the simplified island outline in its lens.
